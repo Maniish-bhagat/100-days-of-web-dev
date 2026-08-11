@@ -1,5 +1,5 @@
-let student {
-  age: 12,
-  class: 9,
-  roll: 12,
-    }
+// let student {
+//   age: 12,
+//   class: 9,
+//   roll: 12,
+//     }
